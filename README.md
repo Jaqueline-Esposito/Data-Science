@@ -1,7 +1,7 @@
 # Data-Science
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner.jpg" >
 </p>
 
 # Jaqueline Espósito
