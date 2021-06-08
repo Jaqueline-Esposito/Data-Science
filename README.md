@@ -21,6 +21,6 @@ Minhas credenciais incluem a graduação em Direito pelo Centro Universitário C
 
 ## Projetos:
 Análise de Dados do Airbnb - New York City
-
+Automação e Análise de Dados
 
 
